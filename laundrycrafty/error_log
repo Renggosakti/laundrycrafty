@@ -1,0 +1,103 @@
+[17-Nov-2025 14:43:40 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 17:28:53 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 17:33:12 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 17:33:36 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 18:15:47 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 19:17:48 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 19:28:52 Asia/Jakarta] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/jvfafdzr/public_html/config.php on line 20
+[17-Nov-2025 19:29:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:30:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:30:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:33:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:33:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:34:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:35:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:35:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:35:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:36:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:44:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:49:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[17-Nov-2025 19:55:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:441
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 441
+[18-Nov-2025 18:20:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[18-Nov-2025 18:21:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[18-Nov-2025 18:21:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[18-Nov-2025 18:21:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[18-Nov-2025 18:21:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[18-Nov-2025 18:22:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[19-Nov-2025 05:05:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:443
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 443
+[19-Nov-2025 05:25:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:444
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 444
+[19-Nov-2025 05:26:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:444
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 444
+[19-Nov-2025 05:26:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:444
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 444
+[19-Nov-2025 05:29:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/jvfafdzr/public_html/index.php:444
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 444
